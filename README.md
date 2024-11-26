@@ -1,4 +1,4 @@
-# 🗂️ Client Management System in C++ 💼
+# 🗂️ Bank Client Management System in C++ 💼
 
 > **A simple yet powerful console-based system to manage client data including adding, deleting, and updating client information. 🛠️**  
 
