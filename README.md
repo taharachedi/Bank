@@ -41,6 +41,16 @@ This **C++ project** simulates a **Client Management System** 🧑‍💼 that a
 
 ---
 
+## ⚙️ Technologies Used
+
+- **Language**: C++
+- **Programming Paradigm**: Procedural
+- **File Handling**: File I/O for data persistence
+- **Data Structures**: Vectors for dynamic client management
+
+---
+
+
 ## 🎯 Learning Outcomes
 
 This project helps you explore and implement various C++ programming concepts:
